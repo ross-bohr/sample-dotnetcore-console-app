@@ -6,7 +6,7 @@ namespace sample_dotnetcore_console_app
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello, Jenkins World!");
         }
     }
 }
